@@ -1,1 +1,2 @@
 This is an example file in testproject2.
+This is for understanding branching, since it's initially available in the branch

@@ -1,19 +1,21 @@
+Text for Agile 101 presentation notes
+
 SLIDE 2 - Scrum in 100 words
 Agile is about the team micromanaging itself so that no one else does.
 
 
 SLIDE 3 - Characteristics
-Most methodologies provide inclusive rulesóall the things you could possibly do under all situations. Agile methods offer generative rulesóa minimum set of things you must do under all situations to generate appropriate practices for special situations. Teams that follow inclusive rules depend on someone else to name in advance the practices and conditions for every situation. This obviously breaks down quickly. A team that follows generative rules depends on individuals and their creativity to find ways to solve problems as they arise. Creativity, not voluminous written rules, is the only way to manage complex software development problems and diverse situations.
+Most methodologies provide inclusive rules‚Äîall the things you could possibly do under all situations. Agile methods offer generative rules‚Äîa minimum set of things you must do under all situations to generate appropriate practices for special situations. Teams that follow inclusive rules depend on someone else to name in advance the practices and conditions for every situation. This obviously breaks down quickly. A team that follows generative rules depends on individuals and their creativity to find ways to solve problems as they arise. Creativity, not voluminous written rules, is the only way to manage complex software development problems and diverse situations.
 
 SLIDE 5 - Putting it all together
-Donít plan a sprint so full that you have no room for unplanned events. If a crisis occurs that takes up everyoneís time, you should cancel the sprint. Be careful using the word ìbacklogî since a sprint backlog is different from a release backlog. No change is allowed to happen during the sprint, but outside the sprint, the world can change. A sprint analog is like having a do-not-disturb sign on your door. Go ahead and disturb me for a real emergency, but otherwise, let me work in peace.
+Don‚Äôt plan a sprint so full that you have no room for unplanned events. If a crisis occurs that takes up everyone‚Äôs time, you should cancel the sprint. Be careful using the word ‚Äúbacklog‚Äù since a sprint backlog is different from a release backlog. No change is allowed to happen during the sprint, but outside the sprint, the world can change. A sprint analog is like having a do-not-disturb sign on your door. Go ahead and disturb me for a real emergency, but otherwise, let me work in peace.
 If a team determines that it cannot finish, they go back to the product owner and reduce the commitment.
 The daily meeting should not feel like drudgery, it should feel energizing.
-Pick a sprint length and stick to it. Only change it if itís not working for the team.
+Pick a sprint length and stick to it. Only change it if it‚Äôs not working for the team.
 Use common sense!
 
 SLIDE 11 The Scrum Master
-At voltage, the ScrumMaster is chosen from among the team members, since we donít have anyone whose sole role is to be ScrumMaster. it is important that the ScrumMaster treats the role as a servant leader. The ScrumMaster is there to serve the team. The ScrumMaster should not be the product owner, the development manager, or the VP.
+At voltage, the ScrumMaster is chosen from among the team members, since we don‚Äôt have anyone whose sole role is to be ScrumMaster. it is important that the ScrumMaster treats the role as a servant leader. The ScrumMaster is there to serve the team. The ScrumMaster should not be the product owner, the development manager, or the VP.
 
 SLIDE 14 Sprint Planning
 The product owner prioritizes, but the team sequences the work.
@@ -21,22 +23,22 @@ The planning meeting is also a technical design meeting and can also be a produc
 Commitment based planning is usually the best. This can put a lot of pressure on developers, who are unsure if they can meeting the commitment. However, they should really only be concerned about missing releases, not missing commitments to sprints. The goal of agile is to get better at reliably predicting what you can get done.
 
 SLIDE 15 Purpose of Sprint Planning Meeting
-Donít spend too much time estimating. If a programmer has never seen the code before, they should take a small  preview during the previous sprint. Create safety in providing estimates. Most teams can plan 7-10 user stories per sprint.
+Don‚Äôt spend too much time estimating. If a programmer has never seen the code before, they should take a small  preview during the previous sprint. Create safety in providing estimates. Most teams can plan 7-10 user stories per sprint.
 
 SLIDE 17 Managing the sprint backlog
-What we are mostly concerned with is effort remaining. Donít track the actual hours put into a task, this leads to dysfunction, like fudging the estimates.
+What we are mostly concerned with is effort remaining. Don‚Äôt track the actual hours put into a task, this leads to dysfunction, like fudging the estimates.
 Each team member is responsible for updating her own numbers. Scrum masters can ask team members to update the numbers once a day.
-Itís ok to add tasks when you realize youíve forgotten something
+It‚Äôs ok to add tasks when you realize you‚Äôve forgotten something
 Swarming is a good drill to do on occasion, but is not the way you want to work day-to-day.
 If a task was underestimated by a large margin, you should involve the product owner to see how high the priority is (drop the task or add more people or drop other tasks). 
-A typical team does 1 ñ 1 Ω stories per person per sprint.
+A typical team does 1 ‚Äì 1 ¬Ω stories per person per sprint.
 If a sprint is longer, the teams tend to have larger stories.
 
 SLIDE 18 - The Daily Scrum
 Ideally, the product owner should come to the scrum meeting every day, but showing up once or twice a week is ok.
 
 SLIDE 19 - Everyone answers 3 questions
-If you work on stuff outside the sprint, donít go into the details, just say ìother stuffî
+If you work on stuff outside the sprint, don‚Äôt go into the details, just say ‚Äúother stuff‚Äù
 The scrum master can ask other questions besides these, anything to help the team make good decisions.
 
 SLIDE 20 - The sprint review
